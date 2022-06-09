@@ -7,5 +7,6 @@ public class GitDemo {
         System.out.println("I love study！！！");
         System.out.println("great git！！！");
         System.out.println("push gitTest!");
+        System.out.println("pull gitTest");
     }
 }
